@@ -17,7 +17,7 @@ deliverables: '1 HTML file, 1 CSS file, images'
 
 ## Details
 
-- *Typefaces:* `Noto Sans`
+- *Typefaces:* `Noto Sans` (regular, bold)
 - *Text sizes:* `1.5rem`
 - *Colours:* `#e5c30a`
 - *Paddings:* `1.3rem`, `1rem`
