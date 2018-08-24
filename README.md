@@ -1,5 +1,5 @@
 ---
-summary: 'Use media queries and float to make a responsive section on a website with three columns.'
+summary: 'Use media queries and Flexbox to make a responsive section on a website with three columns.'
 time: '1 hour'
 deliverables: '1 HTML file, 1 CSS file, images'
 ---
@@ -9,7 +9,7 @@ deliverables: '1 HTML file, 1 CSS file, images'
 ## Overview
 
 - *Fork this repository.*
-- Duplicate the layout shown in the screenshots using media queries and float.
+- Duplicate the layout shown in the screenshots using media queries and Flexbox.
 - Text can be found inside the `content.txt` file.
 - *Run it through Markbot and make sure it passes all the checks.*
 

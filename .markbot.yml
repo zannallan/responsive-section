@@ -48,7 +48,10 @@ css:
       - ['.section-icon']
       - ['@25em', '.section-letter']
     search:
-      - 'float\: left'
-      - 'float\: right'
-      - 'overflow\: hidden'
-      - 'width\:'
+      - 'display: flex'
+      - 'flex-direction: row'
+      - 'flex-wrap:'
+      - 'justify-content:'
+      - 'align-items:'
+      - 'order:'
+      - 'width:'
