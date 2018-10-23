@@ -49,7 +49,6 @@ css:
       - ['@25em', '.section-letter']
     search:
       - 'display: flex'
-      - 'flex-direction: row'
       - 'flex-wrap:'
       - 'justify-content:'
       - 'align-items:'
